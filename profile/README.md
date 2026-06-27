@@ -57,6 +57,7 @@
 | --- | --- | --- |
 | 个人笔记分享 | [Note-Sharing](https://github.com/AIAADC/Note-Sharing) | 欢迎按班级和姓名整理自己的学习笔记 |
 | 期中分享会资料 | [Midterm-Presentation](https://github.com/AIAADC/Midterm-Presentation) | 分享会课件、讲稿与复习材料 |
+| 期末分享会资料 | [Final-Exam-Presentation](https://github.com/AIAADC/Final-Exam-Presentation) | 分享会课件、讲稿与复习材料 |
 
 ---
 

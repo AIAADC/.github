@@ -56,7 +56,7 @@
 | 传感技术 | [Sensor-Principles-and-Applications](https://github.com/AIAADC/Sensor-Principles-and-Applications) | 传感技术课程资料 |
 | 电机拖动基础 | [Fundamentals-of-Electric-Machines-and-Drives](https://github.com/AIAADC/Fundamentals-of-Electric-Machines-and-Drives) | 电机拖动基础课程资料 |
 | 微机原理 | [Principles-of-Microcomputers](https://github.com/AIAADC/Principles-of-Microcomputers) | 微机原理课程资料 |
-| 自动控制原理（二） | [Principles-of-Automatic-Control-II](https://github.com/AIAADC/Principles-of-Automatic-Control-II) | 自动控制原理（二）课程资料 |
+| 自动控制原理（二） | [Principles-of-Automatic-Control](https://github.com/AIAADC/Principles-of-Automatic-Control) | 自动控制原理（二）课程资料 |
 ---
 
 ## 🌱 共享与共建

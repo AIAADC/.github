@@ -4,9 +4,8 @@
 
 ### AIAADC · 课程资料、学习笔记、真题索引与学习支持
 
-这里整理 AIA 同学在学习路上可能会用到的资料：  
-从大一基础课，到大二专业基础课；从课堂课件，到真题复习；从个人笔记，到分享会材料。
-
+这里整理 AIA 同学在学习路上可能会用到的资料：   
+从大一基础课，到大二专业基础课，再到大三专业课；从课堂课件，到真题复习；从个人笔记，到分享会材料。
 </div>
 
 ---
@@ -49,6 +48,16 @@
 | 数据结构 | [Data-Structure](https://github.com/AIAADC/Data-Structure) | 数据结构课件、算法分析资料 |
 | 信号与系统引论 | [Introduction-to-Signals-and-Systems](https://github.com/AIAADC/Introduction-to-Signals-and-Systems) | 习题解析、课程资料 |
 
+### 大三与专业课程
+
+| 课程 | 仓库 | 内容 |
+| --- | --- | --- |
+| 数据库 | [Database-Systems](https://github.com/AIAADC/Database-Systems) | 数据库课程资料 |
+| 计算机网络 | [Computer-Networks](https://github.com/AIAADC/Computer-Networks) | 计算机网络课程资料 |
+| 传感技术 | [Sensor-Principles-and-Applications](https://github.com/AIAADC/Sensor-Principles-and-Applications) | 传感技术课程资料 |
+| 电机拖动基础 | [Fundamentals-of-Electric-Machines-and-Drives](https://github.com/AIAADC/Fundamentals-of-Electric-Machines-and-Drives) | 电机拖动基础课程资料 |
+| 微机原理 | [Principles-of-Microcomputers](https://github.com/AIAADC/Principles-of-Microcomputers) | 微机原理课程资料 |
+| 自动控制原理（二） | [Principles-of-Automatic-Control-II](https://github.com/AIAADC/Principles-of-Automatic-Control-II) | 自动控制原理（二）课程资料 |
 ---
 
 ## 🌱 共享与共建

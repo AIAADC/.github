@@ -52,7 +52,6 @@
 
 | 课程 | 仓库 | 内容 |
 | --- | --- | --- |
-| 数据库 | [Database-Systems](https://github.com/AIAADC/Database-Systems) | 数据库课程资料 |
 | 计算机网络 | [Computer-Networks](https://github.com/AIAADC/Computer-Networks) | 计算机网络课程资料 |
 | 传感技术 | [Sensor-Principles-and-Applications](https://github.com/AIAADC/Sensor-Principles-and-Applications) | 传感技术课程资料 |
 | 电机拖动基础 | [Fundamentals-of-Electric-Machines-and-Drives](https://github.com/AIAADC/Fundamentals-of-Electric-Machines-and-Drives) | 电机拖动基础课程资料 |
